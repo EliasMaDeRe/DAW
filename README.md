@@ -6,3 +6,6 @@ Integrantes del equipo:
 
 - Villajuana Saavedra, Fernando
 <img src="/img/Fernando.jpg" alt="Fernando" width="200"/>
+
+- Calderon Delgado, Carlos
+<img src="/img/Carlos.JPG" alt="Carlos" width="200"/>
