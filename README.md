@@ -9,3 +9,6 @@ Integrantes del equipo:
 
 - Calderon Delgado, Carlos
 <img src="/img/Carlos.JPG" alt="Carlos" width="200"/>
+
+- Pérez Romero, Alan
+<img src="/img/Alan.JPG" alt="Alan" width="200"/>
