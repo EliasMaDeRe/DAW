@@ -11,4 +11,4 @@ Integrantes del equipo:
 <img src="/img/Carlos.JPG" alt="Carlos" width="200"/>
 
 - Pérez Romero, Alan
-<img src="/img/Alan.JPG" alt="Alan" width="200"/>
+<img src="/img/Alan.jpg" alt="Alan" width="200"/>
